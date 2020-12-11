@@ -1,5 +1,6 @@
 using TailRec
-using Base.Test
+using Test
 
-# write your own tests here
-@test 1 == 1
+@testset "TailRec.jl" begin
+    # Write your tests here.
+end
